@@ -1,4 +1,4 @@
-# 📊 Gerador de Dados de KPIs Empresariais com Python 🐍
+# 📊 Gerador de Dados CSV para Dashboards em Segmentos Diversos e Hotelaria 🐍
 
 ![Logo do Gerador de Arquivo CSV](images/logo.webp)
 
